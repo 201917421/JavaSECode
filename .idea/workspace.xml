@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb340042-95ca-4038-ac5c-8bd4d2bd735a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2d4s0EGBGT4bJgndKKwwEydVs0A" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter03/src/GuLiAccount" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WenziNeirong\1-JAVAStudy\JavaSEcode\chapter03\src\GuLiAccount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AccountTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise06.Test03.AccountTest" />
+      <module name="chapter06_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise06.Test03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise05.F_Sum" />
+      <module name="chapter06_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPool_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise05.StringPool_Test" />
+      <module name="chapter06_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise06.Test02.StudentTest" />
+      <module name="chapter06_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise06.Test02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriAngleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise06.Test01.TriAngleTest" />
+      <module name="chapter06_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise06.Test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.TriAngleTest" />
+        <item itemvalue="Application.F_Sum" />
+        <item itemvalue="Application.StringPool_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb340042-95ca-4038-ac5c-8bd4d2bd735a" name="默认更改列表" comment="" />
+      <created>1709278459887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709278459887</updated>
+      <workItem from="1709278464766" duration="1025000" />
+      <workItem from="1709279538361" duration="1567000" />
+      <workItem from="1709281154120" duration="3848000" />
+      <workItem from="1709434870026" duration="1825000" />
+      <workItem from="1709451664148" duration="4252000" />
+      <workItem from="1709516698061" duration="15033000" />
+      <workItem from="1709604418002" duration="1977000" />
+      <workItem from="1709620241558" duration="3122000" />
+      <workItem from="1709687963469" duration="7856000" />
+      <workItem from="1709878268843" duration="8295000" />
+      <workItem from="1710729922821" duration="4352000" />
+      <workItem from="1710904899708" duration="3310000" />
+      <workItem from="1710982904656" duration="6444000" />
+      <workItem from="1711011618751" duration="3062000" />
+      <workItem from="1711176730035" duration="2518000" />
+      <workItem from="1711241438391" duration="6876000" />
+      <workItem from="1711415056294" duration="6008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1709540661061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1709540661061" />
+    <state x="608" y="279" width="319" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1709542202900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="608" y="279" width="319" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1709542202900" />
+    <state x="526" y="113" key="FileChooserDialogImpl" timestamp="1709541410200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1709541410200" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1711420754982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1711420754982" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1711420754982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1711420754982" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1711420754981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1711420754981" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1711420754982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1711420754982" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1711282114319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1711282114319" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1711282114319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1711282114319" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1711282114319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1711282114319" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1711282114319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1711282114319" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1710990047259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1710990047259" />
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1709279546153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1709279546153" />
+    <state x="462" y="167" width="611" height="490" key="find.popup" timestamp="1711280833500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="167" width="611" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1711280833500" />
+    <state x="178" y="29" key="new project wizard" timestamp="1710729956716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1710729956716" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1711415488186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1711415488186" />
+  </component>
+</project>
